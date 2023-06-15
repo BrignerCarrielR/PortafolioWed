@@ -1,0 +1,22 @@
+.nav {
+    background-color: #001a33;
+}
+
+/* espacio debajo del navegador */
+.espacio {
+    background-color: #004280;
+}
+
+.body {
+    background-color: #99ceff;
+}
+
+
+.imgfondo {
+    background: url(https://wallpaperaccess.com/full/5234773.jpg);
+    background-size: cover;
+}
+
+.carta {
+    background-color: #004280;
+}
