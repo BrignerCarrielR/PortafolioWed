@@ -20,3 +20,13 @@
 .carta {
     background-color: #004280;
 }
+
+.tamañoimgbarcelona {
+    height: 50px;
+    width: 50px;
+}
+
+.colorborde {
+    border: solid;
+    border-color: #99ceff;
+}
